@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    font-family: fantasy;
+}
+ a{
+     font-size: 30px;
+     width: 125;
+     text-shadow: 6px 6px 2px rgb(0, 0, 0);
+
+ }
